@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 
-<widget xmlns = "http://www.w3.org/ns/widgets"
-	xmlns:gap = "http://phonegap.com/ns/1.0"
-	id = "com.phonegap.app1"
-	version = "1.0.0">
+<widget xmlns="http://www.w3.org/ns/widgets"
+	xmlns:gap="http://phonegap.com/ns/1.0"
+	id="com.phonegap.app1"
+	version="1.0.0">
 	
 	<name> app1-2018 Datos del Dispositivo </name>
 	
@@ -11,7 +11,7 @@
 	Aplicacion que muestra los datos del dispositivo
 	</description>
 	
-	<author href="https://build.phonegap.com" email="joshuamaca@gmail.com">
+	<author href="https://build.phonegap.com" email="bot.flnetwork@gmail.com">
 	Joshua Mayorga Maca
 	</author>
 	
